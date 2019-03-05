@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass2/ass2.cpp
+iostream
+-
+sstream
+-
+timespan.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass2/timespan.h
+iostream
+-
+sstream
+-
+cassert
+-
+timespan.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass2/timespan.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass2/timespan.cpp
+timespan.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass2/timespan.h
+iostream
+-
+sstream
+-
+cassert
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass2/timespan.h
+iostream
+-
+sstream
+-
+cassert
+-
+

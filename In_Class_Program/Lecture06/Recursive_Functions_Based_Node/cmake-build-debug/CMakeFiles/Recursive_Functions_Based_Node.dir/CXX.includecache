@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/list.cpp
+list.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/list.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/list.h
+node.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/node.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/main.cpp
+iostream
+-
+node.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/node.h
+list.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/list.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/node.cpp
+node.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/node.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/node.h
+iostream
+-
+node.cpp
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture06/Recursive Functions Based Node/node.cpp
+

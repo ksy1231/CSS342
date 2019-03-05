@@ -1,0 +1,198 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Account.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Account.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Account.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Account.h
+iostream
+-
+fstream
+-
+iomanip
+-
+string
+-
+Customer.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Customer.h
+Fund.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Fund.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/AccountList.cpp
+AccountList.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/AccountList.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/AccountList.h
+iostream
+-
+string
+-
+Account.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Account.h
+BSTree.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/BSTree.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/BSTree.h
+iostream
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Bank.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Bank.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Bank.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Bank.h
+iostream
+-
+string
+-
+Account.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Account.h
+AccountList.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/AccountList.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Customer.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Customer.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Customer.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Customer.h
+Person.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Person.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Fund.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Fund.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Fund.h
+cstring
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Fund.h
+iostream
+-
+vector
+-
+list
+-
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Person.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Person.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Person.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Person.h
+string
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/TaskList.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+TaskList.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/TaskList.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/TaskList.h
+iostream
+-
+fstream
+-
+queue
+-
+string
+-
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Transaction.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Teller.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Teller.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Teller.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Teller.h
+iostream
+-
+string
+-
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Transaction.h
+Bank.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Bank.h
+Customer.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Customer.h
+Account.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Account.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Transaction.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Transaction.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Transaction.h
+string
+-
+Customer.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Customer.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+string
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/main.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+fstream
+-
+string
+-
+TaskList.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/TaskList.h
+Teller.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Teller.h
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/Transaction.h
+VariableDefaultsValues.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/VariableDefaultsValues.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/stdafx.h
+targetver.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/targetver.h
+stdio.h
+-
+tchar.h
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(6)/targetver.h
+SDKDDKVer.h
+-
+

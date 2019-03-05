@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass1/ass1.cpp
+iostream
+-
+cassert
+-
+cstring
+-
+library.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass1/library.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass1/library.cpp
+library.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass1/library.h
+iostream
+-
+cstring
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass1/library.h
+iostream
+-
+cstring
+-
+

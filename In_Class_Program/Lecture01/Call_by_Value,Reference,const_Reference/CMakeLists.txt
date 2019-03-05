@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Call_by_Value__Reference__const_Reference)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Call_by_Value__Reference__const_Reference main.cpp)

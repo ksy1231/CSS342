@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2018.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\SooYeon Kim\Desktop\CSS 342 A\ass1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass1/cmake-build-debug

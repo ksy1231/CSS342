@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture03/Operator Overloading/complex.h
+iostream
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture03/Operator Overloading/main.cpp
+iostream
+-
+complex.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture03/Operator Overloading/complex.h
+

@@ -1,0 +1,120 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Account.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+Account.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Account.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Account.h
+Client.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Client.h
+Fund.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Fund.h
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Transaction.h
+vector
+-
+queue
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/BSTree.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+BSTree.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/BSTree.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/BSTree.h
+Account.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Account.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Bank.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+Bank.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Bank.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Bank.h
+fstream
+-
+BSTree.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/BSTree.h
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Transaction.h
+queue
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Client.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+Client.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Client.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Client.h
+iostream
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Fund.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+Fund.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Fund.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Fund.h
+queue
+-
+iostream
+-
+string
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Transaction.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Transaction.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Transaction.h
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+queue
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/main.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+Bank.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Bank.h
+Transaction.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/Transaction.h
+fstream
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.cpp
+stdafx.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/stdafx.h
+targetver.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/targetver.h
+stdio.h
+-
+tchar.h
+-
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass5(7)/targetver.h
+SDKDDKVer.h
+-
+

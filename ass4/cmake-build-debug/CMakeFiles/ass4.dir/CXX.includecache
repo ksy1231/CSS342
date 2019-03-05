@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass4/ass4.cpp
+iostream
+-
+skiplist.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass4/skiplist.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass4/skiplist.cpp
+cassert
+-
+climits
+-
+ctime
+-
+skiplist.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass4/skiplist.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/ass4/skiplist.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Largest.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Largest.dir/objects.a @CMakeFiles\Largest.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Largest.dir/objects.a -Wl,--no-whole-archive  -o Largest.exe -Wl,--out-implib,libLargest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Largest.dir\linklibs.rsp

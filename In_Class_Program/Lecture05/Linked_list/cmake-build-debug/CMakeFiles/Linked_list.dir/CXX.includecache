@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/list.cpp
+list.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/list.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/list.h
+node.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/node.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/main.cpp
+iostream
+-
+node.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/node.h
+list.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/list.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/node.cpp
+node.h
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/node.h
+
+C:/Users/SooYeon Kim/Desktop/CSS 342 A/In-Class Program/Lecture05/Linked-list/node.h
+iostream
+-
+
